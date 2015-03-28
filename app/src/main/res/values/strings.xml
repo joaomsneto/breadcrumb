@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Breadcrumb</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="dialog_inicio_titulo">Dados do local inicial</string>
+    <string name="dialog_inicio_titulo_label">Título:</string>
+    <string name="dialog_inicio_descricao_label">Descrição:</string>
+    <string name="dialog_termino_titulo">Dados do local final</string>
+    <string name="dialog_termino_titulo_label">Título:</string>
+    <string name="dialog_termino_descricao_label">Descrição:</string>
+    <string name="inicio_rota_botao_label">Iniciar!</string>
+</resources>
